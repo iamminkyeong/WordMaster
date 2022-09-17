@@ -1,0 +1,4 @@
+1|hi|안녕
+1|hello|안녕
+1| banana|바나나
+2|Kiwi|키위
