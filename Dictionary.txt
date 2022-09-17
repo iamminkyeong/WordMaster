@@ -1,4 +1,5 @@
-1|hi|안녕
 1|hello|안녕
 1| banana|바나나
 2|Kiwi|키위
+2||wle
+1| welcome|환영합니다
