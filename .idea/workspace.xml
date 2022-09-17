@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fb9f8ab-1b66-43e6-9a1c-99af115cbebb" name="Changes" comment="WordMaster created">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2fb9f8ab-1b66-43e6-9a1c-99af115cbebb" name="Changes" comment="gitignore updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycom/word/WordCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycom/word/WordCRUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mycom/word/WordManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycom/word/WordManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +65,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661964097036</updated>
-      <workItem from="1661964098196" duration="31281000" />
+      <workItem from="1661964098196" duration="31912000" />
+      <workItem from="1662464438271" duration="3315000" />
+      <workItem from="1663052578952" duration="6603000" />
     </task>
     <task id="LOCAL-00001" summary="WordMaster created">
       <created>1662228771072</created>
@@ -70,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662228771072</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore updated">
+      <created>1662229491381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662229491381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WordMaster created" />
-    <option name="LAST_COMMIT_MESSAGE" value="WordMaster created" />
+    <MESSAGE value="gitignore updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore updated" />
   </component>
 </project>
